@@ -1,0 +1,4 @@
+MYSQL_DATABASE=DS
+MYSQL_HOST=dbserver2.c3vxes2gmkdi.us-east-2.rds.amazonaws.com
+MYSQL_USER=msisAdmin
+MYSQL_PASSWORD=Hyeonjin0970!
